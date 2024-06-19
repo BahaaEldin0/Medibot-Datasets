@@ -1,0 +1,11 @@
+"http://medibot-ensemble-model-docker.icyflower-27afbae0.uaenorth.azurecontainerapps.io/predict"   Xray Model API 
+
+"http://medibot-llm-docker.icyflower-27afbae0.uaenorth.azurecontainerapps.io/chat"  LLM Agents Docker
+
+"https://medibot-backend-docker.redcliff-fa17bb4c.uaenorth.azurecontainerapps.io" Backend Docker
+
+"ws://medibot-backend-docker.redcliff-fa17bb4c.uaenorth.azurecontainerapps.io" Backend Docker websocket
+
+"http://medibot-frontend-docker.redcliff-fa17bb4c.uaenorth.azurecontainerapps.io" Frontend
+
+"https://medibot-milvus-docker.redcliff-fa17bb4c.uaenorth.azurecontainerapps.io/" Milvus Docker
